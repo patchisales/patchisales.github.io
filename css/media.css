@@ -1,0 +1,40 @@
+@media(max-width: 70em){
+    .menu-block{
+        width: 60%;
+        height: 10%;
+        border-radius: 100px;
+        margin: 10% auto;
+        font-size: 300%;
+        text-align: center;
+        padding: 1%;
+    }
+    .logo-text{
+        font-size: 400%;
+    }
+
+    .nav-back{
+        display: inline-block;
+        background: cornflowerblue;
+        border-radius: 10px;
+        text-align: center;
+        color: white;
+        font-family: Bahnschrift;
+        font-size: 350%;
+        float: left;
+        padding: 1%;
+        margin: 3%;
+    }
+
+    img{
+        width: 270px;
+    }
+    .cost-value{
+        font-size: 250%;
+        width: 50%;
+    }
+
+
+    .text{
+        font-size: 200%;
+    }
+}

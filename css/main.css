@@ -1,0 +1,75 @@
+.nav{
+    display: inline-block;
+    width: 100%;
+}
+
+.item{
+    max-width: 100%;
+    width: 90%;
+    text-align: center;
+    /*padding: 5px;*/
+    margin: 10px 20px;
+/*    border: mediumslateblue solid thin;*/
+}
+
+a{
+    text-decoration: none;
+}
+
+span{
+    margin: 10px;
+}
+
+.text{
+    font-family: Bahnschrift;
+    text-align: left;
+    font-size: 120%;
+}
+
+.cost-value{
+    font-family: Dubai;
+    width: 30%;
+    color: white;
+    background: mediumslateblue;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 10px;
+}
+table{
+    width: 50%;
+    margin: 0 auto;
+}
+
+img{
+    width: 100%;
+}
+
+.nav-back{
+    display: inline-block;
+    background: cornflowerblue;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    font-family: Bahnschrift;
+    font-size: 150%;
+    float: left;
+    padding: 1%;
+}
+
+.menu-block{
+    width: 10%;
+    margin: 1% auto;
+    background: cornflowerblue;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    font-family: Bahnschrift;
+    font-size: 150%;
+    padding: 1%;
+    float: top;
+}
+.logo-text{
+    font-family: Bahnschrift;
+    font-size: 300%;
+    font-weight: bold;
+}
